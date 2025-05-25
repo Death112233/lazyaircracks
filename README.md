@@ -35,7 +35,7 @@ It creates denial of service (DoS) condition against any wifi router by continou
 ### Installing
 + **For Linux :**
 ```
-~ ❯❯❯ git clone https://github.com/3xploitGuy/lazyaircrack.git
+~ ❯❯❯ git clone https://github.com/Death112233/lazyaircracks.git
 
 ~ ❯❯❯ cd lazyaircrack
 
@@ -52,13 +52,11 @@ It creates denial of service (DoS) condition against any wifi router by continou
 
 
 ## Contact
-[Gmail](mailto:3xploitguy@gmail.com)
+[Gmail](mailto:whitehat09890@gmail.com)
 
 ## Disclaimer
 
 LazyAircrack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.
-
-Feel free to discuss any issue or new feature at GitHub's new [Discussions](https://github.com/3xploitGuy/lazyaircrack/discussions).
 
 Pull requests are always welcomed.
 
