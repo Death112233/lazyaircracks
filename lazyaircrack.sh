@@ -56,8 +56,9 @@ echo -e "${Red}
       ▀                   ▀                          ▀                "
 echo -e "${Yellow} \n             A lazy script for aircrack-ng, wifi hacking.
       The script only works if your wifi adapter has monitor mode."
-echo -e "${Green}\n                    Developed by: Sandesh (3xploitGuy)"
+echo -e "${Green}\n                    Developed by: death (death112233)"
 echo -e "${Green}                         Version: 2.1 Stable"
+echo -e "${Green}\n  teligram : @udemydeath
 }
 
 menu () {        ##### Display available options #####
